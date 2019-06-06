@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/liamg/furious/scan"
-	"github.com/liamg/furious/version"
+	"github.com/benderpan/furious/scan"
+	"github.com/benderpan/furious/version"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )
